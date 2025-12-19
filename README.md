@@ -3,7 +3,6 @@
 **Excel 列提取合并工具** | A powerful tool for extracting and merging columns from multiple Excel files
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows)
 
 ## 📋 项目简介 / Project Description
@@ -172,6 +171,7 @@ The project includes `excel_colomn_extraction.spec` with the following optimizat
 - Hidden imports configuration (fixes openpyxl module import issues)
 - No console window (GUI application)
 - UPX compression support
+
 
 
 
