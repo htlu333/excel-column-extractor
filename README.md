@@ -8,13 +8,10 @@
 
 ## 📋 项目简介 / Project Description
 
-**中文：**
 
-Excel Column Extractor 是一个功能强大的 Excel 列提取和合并工具，支持从多个 Excel 文件中灵活选择列并进行合并。工具提供了直观的图形界面，支持参照列（主键）对齐、格式保留、异步处理等高级功能，是处理多文件 Excel 数据的理想选择。
+一个 Excel 列提取和合并工具，支持从多个 Excel 文件中灵活选择列并进行合并。工具提供了直观的图形界面，支持参照列（主键）对齐、格式保留、异步处理等高级功能。
 
-**English：**
-
-Excel Column Extractor is a powerful tool for extracting and merging columns from multiple Excel files. It provides an intuitive graphical interface with advanced features such as reference column alignment, format preservation, and asynchronous processing, making it an ideal solution for handling multi-file Excel data.
+A powerful tool for extracting and merging columns from multiple Excel files. It provides an intuitive graphical interface with advanced features such as reference column alignment, format preservation, and asynchronous processing.
 
 ## ✨ 主要特性 / Key Features
 
@@ -176,27 +173,6 @@ The project includes `excel_colomn_extraction.spec` with the following optimizat
 - No console window (GUI application)
 - UPX compression support
 
-## 🤝 贡献 / Contributing
 
-欢迎提交 Issue 和 Pull Request！
 
-Contributions are welcome! Please feel free to submit Issues and Pull Requests.
-
-## 📝 许可证 / License
-
-本项目采用 MIT 许可证。
-
-This project is licensed under the MIT License.
-
-## 📧 联系方式 / Contact
-
-如有问题或建议，请通过 GitHub Issues 反馈。
-
-For questions or suggestions, please submit via GitHub Issues.
-
----
-
-**⭐ 如果这个项目对你有帮助，请给个 Star！**
-
-**⭐ If this project helps you, please give it a Star!**
 
